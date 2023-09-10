@@ -15,6 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=naikmubashir&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
----
 
+---
 [![](https://visitcount.itsvg.in/api?id=naikmubashir&icon=0&color=6)](https://visitcount.itsvg.in)
