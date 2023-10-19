@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 I'm in college sophomore majoring in Computer Science Engineering.<br>🧑‍💻 I'm currently learning Web Development and DSA in Java.<br>🧑‍💻 Apart from that I learn whatever is taught in college.<br>⚽ My hobby is playing football. 
+🧑‍🎓 A college sophomore majoring in Computer Science Engineering.<br>🐧 Open Source Enthusiast.<br>🧑‍💻 Currently learning Web Development.<br>🧑‍💻 Apart from that I learn whatever is taught in college.<br>⚽ My hobby is playing football. 
 
 
 ## 🌐 Socials:
@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=naikmubashir&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=naikmubashir&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naikmubashir&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naikmubashir&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naikmubashir&icon=0&color=6)](https://visitcount.itsvg.in)
