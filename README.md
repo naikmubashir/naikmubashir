@@ -1,4 +1,3 @@
-# naik mubashir
 
 i build things that work and scale.
 
